@@ -6,7 +6,7 @@ title: Wenxuan Zeng
 superuser: true
 
 # Role/position/tagline
-role: Senior Student from UESTC
+role: A Senior Student from UESTC
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,6 @@ I am currently a fourth-year undergraduate student at University of Electronic S
 I am devoted to making heavy models faster as well as making tiny models more accurate. My main interested research topics include (but not limited to):
   - Model acceleration for Computer Vision, Natural Language Processing and Graph Learning
   - Multi-modality Deep Learning
-  - AI for good
+  - AI for Good
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
