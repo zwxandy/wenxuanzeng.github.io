@@ -46,7 +46,7 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Study Graph Neural Networks (GNN) and IP Geolocation, advised by (https://www.is.uestc.edu.cn/teachers.do?id=1121)[https://www.is.uestc.edu.cn/teachers.do?id=1121]
+        * Study Graph Neural Networks (GNN) and IP Geolocation, advised by [Prof. Fan Zhou](https://www.is.uestc.edu.cn/teachers.do?id=1121)
         * Conduct research on GNN and IP Geolocation, and finish the paper for KDD 2022
 
 
