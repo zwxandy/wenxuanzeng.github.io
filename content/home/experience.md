@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: Sichuan Key Laboratory of Network and Data Security, UESTC
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Chengdu
+    date_start: '2021-04-15'
+    date_end: '2022-04-10'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      
+        * Graph Neural Networks (GNN) and IP Geolocation
+        * Conduct research GNN and IP Geolocation, and finish the paper for KDD 2022
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Knowledge Works Research Laboratory, Fudan University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Remote
+    date_start: '2022-04-01'
+    date_end: '2022-07-01'
+    description: Study factuality and faithfulness in Natural Language Generation (NLG)
 
 design:
   columns: '2'
