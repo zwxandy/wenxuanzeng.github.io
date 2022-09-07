@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: Knowledge Works Research Laboratory, Fudan University
-    company_url: ''
+    company_url: 'http://kw.fudan.edu.cn/'
     company_logo: org-x
     location: Remote
     date_start: '2022-04-01'
