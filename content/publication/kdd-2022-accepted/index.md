@@ -28,7 +28,7 @@ publishDate: '2022-08-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+publication: KDD '22 - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 publication_short: KDD 2022
 
 abstract: Pinpointing the geographic location of an IP address is important for a range of location-aware applications spanning from targeted advertising to fraud prevention. The majority of traditional measurement-based and recent learning-based methods either focus on the efficient employment of topology or utilize data mining to find clues of the target IP in publicly available sources. Motivated by the limitations in existing works, we propose a novel framework named GraphGeo, which provides a complete processing methodology for street-level IP geolocation with the application of graph neural networks. It incorporates IP hosts knowledge and kinds of neighborhood relationships into the graph to infer spatial topology for high-quality geolocation prediction. We explicitly consider and alleviate the negative impact of uncertainty caused by network jitter and congestion, which are pervasive in complicated network environments. Extensive evaluations across three large-scale real-world datasets demonstrate that GraphGeo significantly reduces the geolocation errors compared to the state-of-the-art methods. Moreover, the proposed framework has been deployed on the web platform as an online service for 6 months.
@@ -36,7 +36,7 @@ abstract: Pinpointing the geographic location of an IP address is important for 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Data Mining]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
