@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: Knowledge Works Research Laboratory, Fudan University
+    company_url: ''
+    company_logo: org-x
+    location: Remote
+    date_start: '2022-04-01'
+    date_end: '2022-07-01'
+    description: |2-
+        Responsibilities include:
+      
+        * Study factuality and faithfulness in Natural Language Generation (NLG)
+        * Finish the paper writing & experiments of AAAI 2023
+
+
+  - title: Research Intern
     company: Sichuan Key Laboratory of Network and Data Security, UESTC
     company_url: ''
     company_logo: org-gc
@@ -32,17 +46,12 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Graph Neural Networks (GNN) and IP Geolocation
-        * Conduct research GNN and IP Geolocation, and finish the paper for KDD 2022
+        * Study Graph Neural Networks (GNN) and IP Geolocation
+        * Conduct research on GNN and IP Geolocation, and finish the paper for KDD 2022
 
-  - title: Research Intern
-    company: Knowledge Works Research Laboratory, Fudan University
-    company_url: ''
-    company_logo: org-x
-    location: Remote
-    date_start: '2022-04-01'
-    date_end: '2022-07-01'
-    description: Study factuality and faithfulness in Natural Language Generation (NLG)
+
+    
+    
 
 design:
   columns: '2'
