@@ -59,8 +59,9 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a fourth-year undergraduate student at University of Electronic Science and Technology of China (UESTC) in School of Software Engineering, Sichuan, China.
-I am devoted to making heavy models faster as well as making tiny models more accurate. My main interested research topics include (but not limited to):
+I am currently a fourth-year undergraduate student at University of Electronic Science and Technology of China (UESTC) in School of Software Engineering. I am devoted to Efficient Multi-modal Deep Learning, which means making heavy models faster as well as making tiny models more accurate. Now I am furthering the scitific research at [Institute for Artificial Intelligence, Peking University](https://www.ai.pku.edu.cn/), where I am advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm).
+
+My main interested research topics include (but not limited to):
   - Model acceleration for Computer Vision, Natural Language Processing and Graph Learning
   - Multi-modality Deep Learning
   - AI for Good
