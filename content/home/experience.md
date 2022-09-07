@@ -28,7 +28,7 @@ experience:
     company_logo: org-pku
     location: Beijing
     date_start: '2022-09-01'
-    date_end: 
+    date_end: '2022-10-01'
     description: |2-
         Responsibilities include:
       
