@@ -15,11 +15,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-08-15T00:00:00Z'
+doi: '10.1145/3534678.3539049'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-08-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,15 +28,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+publication_short: KDD 2022
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pinpointing the geographic location of an IP address is important for a range of location-aware applications spanning from targeted advertising to fraud prevention. The majority of traditional measurement-based and recent learning-based methods either focus on the efficient employment of topology or utilize data mining to find clues of the target IP in publicly available sources. Motivated by the limitations in existing works, we propose a novel framework named GraphGeo, which provides a complete processing methodology for street-level IP geolocation with the application of graph neural networks. It incorporates IP hosts knowledge and kinds of neighborhood relationships into the graph to infer spatial topology for high-quality geolocation prediction. We explicitly consider and alleviate the negative impact of uncertainty caused by network jitter and congestion, which are pervasive in complicated network environments. Extensive evaluations across three large-scale real-world datasets demonstrate that GraphGeo significantly reduces the geolocation errors compared to the state-of-the-art methods. Moreover, the proposed framework has been deployed on the web platform as an online service for 6 months.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Data Mining]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3534678.3539049'
 url_code: ''
 url_dataset: ''
 url_poster: ''
