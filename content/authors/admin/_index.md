@@ -59,6 +59,10 @@ email: ''
 highlight_name: true
 ---
 
-Wenxuan Zeng (曾文轩) is a fourth-year undergraduate student at University of Electronic Science and Technology of China (UESTC) in School of Software Engineering, Sichuan, China.
+I am currently a fourth-year undergraduate student at University of Electronic Science and Technology of China (UESTC) in School of Software Engineering, Sichuan, China.
+I am devoted to making heavy models faster as well as making tiny models more accurate. My main interested research topics include (but not limited to):
+  - Model acceleration for Computer Vision, Natural Language Processing and Graph Learning
+  - Multi-modality Deep Learning
+  - AI for good
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
