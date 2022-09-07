@@ -26,8 +26,8 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-06-15'
-    description: 'Third Prize in Western Region of China'
-    organization: UESTC
+    description: ''
+    organization: Third Prize in Western Region of China
     organization_url: 
     title: China Student Service Outsourcing Innovation and Entrepreneurship Competition
     url: ''
