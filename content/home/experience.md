@@ -22,18 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Further Scientific Research
-    company: Institute for Artificial Intelligence, Peking University
-    company_url: 'https://www.ai.pku.edu.cn/'
-    company_logo: org-pku
-    location: Beijing
-    date_start: '2022-09-01'
-    date_end: '2022-10-01'
-    description: |2-
-        Responsibilities include:
-      
-        * Conduct research on Efficient and secure Multi-modal Deep Learning, advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1137/2308.htm)
-        * Devoted to building better AI systems with both high performance and efficiency
+
 
 
   - title: Research Intern
