@@ -38,8 +38,8 @@ experience:
 
   - title: Research Intern
     company: Sichuan Key Laboratory of Network and Data Security, UESTC
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.uestc.edu.cn/'
+    company_logo: org-uestc
     location: Chengdu
     date_start: '2021-04-15'
     date_end: '2022-04-10'
