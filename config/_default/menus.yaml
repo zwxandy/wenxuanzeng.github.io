@@ -17,7 +17,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Topics
-    url: '#'
+    url: '#tags'
     wieght: 55
   - name: Contact
     url: '#contact'
