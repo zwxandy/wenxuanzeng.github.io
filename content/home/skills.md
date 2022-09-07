@@ -9,22 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Research Theme
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Deep Learning
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: Multi-modal Learning
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
+  - description: Model Acceleration
     icon: camera-retro
     icon_pack: fas
     name: Photography
