@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Conduct research on Efficient and secure Multi-modal Deep Learning, advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1137/2308.htm)
+        * Conduct research on Efficient and secure Multi-modal Deep Learning, advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1137/2308.htm) and [Prof. Runsheng Wang](https://www.ai.pku.edu.cn/info/1137/1229.htm)
         * Devoted to building better AI systems with both high performance and efficiency
 
 
