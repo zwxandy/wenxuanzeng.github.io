@@ -27,9 +27,6 @@ content:
   # Contact details (edit or remove options as required)
   email: zwx.andy@outlook.com
   phone: 15388161786
-  address:
-    city: Chengdu
-    country: China
   directions: Chengdu, China
 
 design:
