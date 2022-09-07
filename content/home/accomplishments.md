@@ -33,11 +33,27 @@ item:
     url: ''
   - certificate_url: 
     date_end: ''
-    date_start: '2021-06-15'
+    date_start: '2021-05-20'
     description: ''
-    organization: Third Prize in Western Region of China
+    organization: National Third Prize
     organization_url: 
-    title: China Student Service Outsourcing Innovation and Entrepreneurship Competition
+    title: Pan-Pearl River Delta Student Computer Work Competition
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-06-20'
+    description: ''
+    organization: Provincial Special Prize
+    organization_url: 
+    title: “Zhong Gong Cup” Sichuan Collegiate Computer Work Competition
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-05-15'
+    description: ''
+    organization: Provincial First Prize
+    organization_url: 
+    title: China Collegiate Computer Design Competition
     url: ''
 
 design:
