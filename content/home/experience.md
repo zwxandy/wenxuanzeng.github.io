@@ -46,8 +46,8 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Study factuality and faithfulness in Natural Language Generation (NLG)
-        * Finish the paper writing & experiments of AAAI 2023
+        * Study factuality and faithfulness in Natural Language Generation (NLG), advised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/)
+        * Finish the paper writing & experiments of AAAI 2023 (submitted)
 
 
   - title: Research Intern
@@ -61,7 +61,7 @@ experience:
         Responsibilities include:
       
         * Study Graph Neural Networks (GNN) and IP Geolocation, advised by [Prof. Fan Zhou](https://www.is.uestc.edu.cn/teachers.do?id=1121)
-        * Conduct research on GNN and IP Geolocation, and finish the paper for KDD 2022
+        * Conduct research on GNN and IP Geolocation, and finish the paper for KDD 2022 (accepted as a long oral paper)
 
 
     
