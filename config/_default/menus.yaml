@@ -21,7 +21,7 @@ main:
     weight: 50
   - name: Topics
     url: '#tags'
-    wieght: 55
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60
