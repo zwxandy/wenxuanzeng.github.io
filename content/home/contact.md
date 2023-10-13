@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: zwx.andy@outlook.com
   phone: 
-  directions: Chengdu, China
+  directions: Beijing, China
 
 design:
   columns: '2'
