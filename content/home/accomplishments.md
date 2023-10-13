@@ -25,35 +25,43 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
+    date_start: '2023-09-09'
+    description: ''
+    organization: National Special Prize 国家级特等奖（全国第一名）
+    organization_url: 
+    title: China Collegiate Computer Contest 中国高校计算机大赛
+    url: ''
+  - certificate_url:
+    date_end: ''
     date_start: '2021-10-23'
     description: ''
-    organization: National First Prize (the 1st Place of Undergraduate Group)
+    organization: National First Prize (the 1st Place of Undergraduate Group) 国家级一等奖（本科组第一名）
     organization_url: 
-    title: China Collegiate Computing Contest 中国高校计算机大赛
+    title: China Collegiate Computer Contest 中国高校计算机大赛
     url: ''
   - certificate_url: 
     date_end: ''
     date_start: '2021-05-20'
     description: ''
-    organization: National Third Prize
+    organization: National Third Prize 国家级三等奖
     organization_url: 
-    title: Pan-Pearl River Delta Student Computer Work Competition
+    title: Pan-Pearl River Delta Collegiate Computer Competition 泛珠三角大学生计算机作品赛
     url: ''
   - certificate_url: 
     date_end: ''
     date_start: '2021-06-20'
     description: ''
-    organization: Provincial Special Prize
+    organization: Provincial Special Prize 省级特等奖
     organization_url: 
-    title: “Zhong Gong Cup” Sichuan Collegiate Computer Work Competition
+    title: “Zhong Gong Cup” Sichuan Collegiate Computer Competition 四川省大学生计算机作品赛
     url: ''
   - certificate_url: 
     date_end: ''
     date_start: '2022-05-15'
     description: ''
-    organization: Provincial First Prize
+    organization: Provincial First Prize 省级一等奖
     organization_url: 
-    title: China Collegiate Computer Design Competition
+    title: China Collegiate Computer Design Competition 中国大学生计算机设计大赛
     url: ''
 
 design:
