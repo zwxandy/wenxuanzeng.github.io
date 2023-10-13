@@ -14,25 +14,24 @@ organizations:
     url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Efficient Deep Learning, Computer Vision, Natural Language Processing and Graph Learning.
+bio: My research interests include eefficient and secure deep learning, computer vision, natural language processing and graph learning.
 
 # Interests to show in About widget
 interests:
-  - Efficient Deep Learning
-  - Computer Vision and Natural Language Processing
-  - Graph Learning
-  - Guitar (Fingerstyle and Folk Music) 🎸
-  - Badminton 🏸
+  - Efficient and secure deep learning
+  - CV, NLP and graph learning
+  - Music (fingerstyle guitar and singing)🎸
+  - Badminton🏸 Fitness
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Software Engineering
-      institution: University of Electronic Science and Technology of China
-      year: 2019-2023
     - course: Master in Microelectronics
       institution: Peking University
       year: 2023-Present
+    - course: BSc in Software Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,11 +62,11 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a fourth-year undergraduate student at University of Electronic Science and Technology of China (UESTC) in School of Software Engineering. I am devoted to Efficient Multi-modal Deep Learning, which means making heavy models faster as well as making tiny models more accurate. Now I am furthering the scientific research at [Institute for Artificial Intelligence, Peking University](https://www.ai.pku.edu.cn/), where I am advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm).
+I am currently a first-year master student at Peking University (PKU) in [Institute for Artificial Intelligence, Peking University](https://www.ai.pku.edu.cn/) and School of Software and Microelectronics. I am now advised by advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm) devoted to efficient and secure deep learning.
 
 My main interested research topics include (but not limited to):
-  - Model acceleration and improvement for Computer Vision, Natural Language Processing and Graph Learning
-  - Multi-modality Deep Learning
+  - Model compression and acceleration
+  - Privacy-preserving deep learning
   - AI for Good
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
