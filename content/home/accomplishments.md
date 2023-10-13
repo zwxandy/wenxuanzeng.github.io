@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
+    date_start: '2022-10-10'
+    description: ''
+    organization:
+    organization_url: 
+    title: “Tencent” Scholarship Special Prize 腾讯特等奖学金
+    url: ''
+  - certificate_url:
+    date_end: ''
     date_start: '2023-09-09'
     description: ''
     organization: National Special Prize 国家级特等奖（全国第一名）
