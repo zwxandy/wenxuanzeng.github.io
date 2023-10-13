@@ -25,9 +25,17 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
+    date_start: '2021-10-10'
+    description: ''
+    organization: 一等奖学金（全校共5个名额）
+    organization_url: 
+    title: “Shi Qiang” Scholarship First Prize 世强一等奖学金
+    url: ''
+  - certificate_url:
+    date_end: ''
     date_start: '2022-10-10'
     description: ''
-    organization:
+    organization: 特等奖学金（全校共3个名额）
     organization_url: 
     title: “Tencent” Scholarship Special Prize 腾讯特等奖学金
     url: ''
