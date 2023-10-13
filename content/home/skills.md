@@ -19,15 +19,15 @@ feature:
   - description: Deep Learning
     icon: r-project
     icon_pack: fab
-    name: Deep Learning
+    name: Machine Learning and Deep Learning
   - description: Multi-modal Learning
     icon: chart-line
     icon_pack: fas
-    name: Multi-modal Learning
+    name: Model Compression and Acceleration
   - description: Model Acceleration
     icon: camera-retro
     icon_pack: fas
-    name: Model Acceleration
+    name: Model Security and Privacy
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
