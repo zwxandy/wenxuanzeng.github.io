@@ -6,12 +6,12 @@ title: Wenxuan Zeng
 superuser: true
 
 # Role/position/tagline
-role: A Senior Student from UESTC
+role: Student at Peking University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Electronic Science and Technology of China
-    url: https://www.uestc.edu.cn/
+  - name: Peking University
+    url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Efficient Deep Learning, Computer Vision, Natural Language Processing and Graph Learning.
