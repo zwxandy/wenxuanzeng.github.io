@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Further Scientific Research
+  - title: Current Scientific Research Lab
     company: Institute for Artificial Intelligence, Peking University
     company_url: 'https://www.ai.pku.edu.cn/'
     company_logo: org-pku
@@ -30,10 +30,10 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Researches include:
       
-        * Conduct research on Efficient and secure Multi-modal Deep Learning, advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1137/2308.htm) and [Prof. Runsheng Wang](https://www.ai.pku.edu.cn/info/1137/1229.htm)
-        * Devoted to building better AI systems with both high performance and efficiency
+        * Efficient and secure multi-modal deep learning, advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1137/2308.htm) and [Prof. Runsheng Wang](https://www.ai.pku.edu.cn/info/1137/1229.htm)
+        * Devoted to building better AI systems with high performance, efficiency and security.
 
 
   - title: Research Intern
@@ -44,10 +44,10 @@ experience:
     date_start: '2022-04-01'
     date_end: '2022-07-01'
     description: |2-
-        Responsibilities include:
+        Researches include:
       
-        * Study factuality and faithfulness in Natural Language Generation (NLG), advised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/)
-        * Finish the paper writing & experiments of AAAI 2023 (submitted)
+        * Study factuality and faithfulness in natural language generation (NLG), advised by [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/)
+        * One paper about factual error correction is accpeted by AAAI 2023
 
 
   - title: Research Intern
@@ -58,14 +58,11 @@ experience:
     date_start: '2021-04-15'
     date_end: '2022-04-10'
     description: |2-
-        Responsibilities include:
+        Researches include:
       
-        * Study Graph Neural Networks (GNN) and IP Geolocation, advised by [Prof. Fan Zhou](https://www.is.uestc.edu.cn/teachers.do?id=1121)
-        * Conduct research on GNN and IP Geolocation, and finish the paper for KDD 2022 (accepted as a long oral paper)
+        * Graph Neural Networks (GNN) and IP Geolocation, advised by [Prof. Fan Zhou](https://www.is.uestc.edu.cn/teachers.do?id=1121)
+        * One paper is accepted by KDD 2022
 
-
-    
-    
 
 design:
   columns: '2'
