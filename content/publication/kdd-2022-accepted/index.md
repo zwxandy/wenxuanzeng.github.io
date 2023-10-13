@@ -6,8 +6,12 @@ title: 'Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Netw
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Zhiyuan Wang
-  - Fan Zhou
   - admin
+  - Fan Zhou
+  - Goce Trajcevski
+  - Chunjing Xiao
+  - Yong Wang
+  - Kai Chen
 
 # Author notes (optional)
 author_notes:
