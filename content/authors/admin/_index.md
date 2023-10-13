@@ -69,4 +69,4 @@ My main interested research topics include (but not limited to):
   - Privacy-preserving deep learning
   - AI for Good
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}} (it is not avaible temporarily).
