@@ -21,11 +21,11 @@ author_notes:
   - 
   - Corresponding author
 
-date: '2023/6/26'
+date: '2023-6-26'
 doi: 'https://doi.org/10.1609/aaai.v37i11.26485'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023/6/26'
+publishDate: '2023-6-26'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
