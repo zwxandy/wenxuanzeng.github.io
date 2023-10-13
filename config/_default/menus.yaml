@@ -26,7 +26,7 @@ main:
     url: '#contact'
     weight: 60
   - name: Blog
-    url: 'https://xuanland.cn'
+    url: 'https://blog.csdn.net/qq_16763983?type=blog'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
