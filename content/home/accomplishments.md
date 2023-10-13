@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url:
     date_end: ''
     date_start: '2021-10-23'
     description: ''
     organization: National First Prize (the 1st Place of Undergraduate Group)
     organization_url: 
-    title: China Collegiate Computing Contest
+    title: China Collegiate Computing Contest 中国高校计算机大赛
     url: ''
   - certificate_url: 
     date_end: ''
