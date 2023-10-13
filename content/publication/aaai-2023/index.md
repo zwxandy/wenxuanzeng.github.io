@@ -34,8 +34,8 @@ publishDate: '2023/6/26'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023
-publication_short: ICCV 2023
+publication: Proceedings of the AAAI Conference on Artificial Intelligence, 2023
+publication_short: AAAI 2023
 
 abstract: Given a possibly false claim sentence, how can we automatically correct it with minimal editing? Existing methods either require a large number of pairs of false and corrected claims for supervised training or do not handle well errors spanning over multiple tokens within an utterance. In this paper, we propose VENCE, a novel method for factual error correction (FEC) with minimal edits. VENCE formulates the FEC problem as iterative sampling editing actions with respect to a target density function. We carefully design the target function with predicted truthfulness scores from an offline trained fact verification model. VENCE samples the most probable editing positions based on back-calculated gradients of the truthfulness score concerning input tokens and the editing actions using a distantly-supervised language model (T5). Experiments on a public dataset show that VENCE improves the well-adopted SARI metric by 5.3 (or a relative improvement of 11.8%) over the previous best distantly-supervised methods.
 
