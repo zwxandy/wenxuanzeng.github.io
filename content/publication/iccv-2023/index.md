@@ -16,7 +16,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
+  -
+  - Corresponding author
 
 date: '2023-08-15'
 doi: '10.48550/arXiv.2211.13955'
