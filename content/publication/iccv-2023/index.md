@@ -19,11 +19,11 @@ author_notes:
   -
   - Corresponding author
 
-date: '2022-10-2'
+date: '2022-10-02'
 doi: '10.48550/arXiv.2211.13955'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-2'
+publishDate: '2022-10-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
