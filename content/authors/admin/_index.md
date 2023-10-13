@@ -30,6 +30,9 @@ education:
     - course: BSc in Software Engineering
       institution: University of Electronic Science and Technology of China
       year: 2019-2023
+    - course: Master in Microelectronics
+      institution: Peking University
+      year: 2023-Present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
