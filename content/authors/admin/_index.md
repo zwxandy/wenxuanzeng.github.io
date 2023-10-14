@@ -62,11 +62,11 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a first-year master student at Peking University (PKU) in [Institute for Artificial Intelligence](https://www.ai.pku.edu.cn/) and School of Software and Microelectronics. I am now advised by advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm) devoted to efficient and secure deep learning.
+I am currently a first-year master student at Peking University (PKU) in [Institute for Artificial Intelligence](https://www.ai.pku.edu.cn/) and School of Software and Microelectronics. I am now advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm) devoted to efficient and secure deep learning.
 
 My main interested research topics include (but not limited to):
   - Model compression and acceleration
   - Privacy-preserving deep learning
   - AI for Good
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}} (it is not avaible temporarily).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}} (it is not avaliable temporarily).
