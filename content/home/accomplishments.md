@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2023-10-15'
     description: ''
-    organization: 最受欢迎奖
+    organization: Most Popular Award 最受欢迎奖
     organization_url: 
-    title: 北京大学人工智能研究院科技节
+    title: Annual Symposium and Tech Day at Peking University 北京大学人工智能研究院科技节
     url: ''
   - certificate_url:
     date_end: ''
