@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Deep Learning
+  - description: ML and DL build the AI world!
     icon: r-project
     icon_pack: fab
     name: Machine Learning and Deep Learning
-  - description: Multi-modal Learning
+  - description: Make heavy models lighter and faster!
     icon: chart-line
     icon_pack: fas
     name: Model Compression and Acceleration
-  - description: Model Acceleration
+  - description: Preserve the pricacy of model and data!
     icon: camera-retro
     icon_pack: fas
-    name: Model Security and Privacy
+    name: AI Security and Privacy
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
