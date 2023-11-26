@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include eefficient and secure deep learning, computer vision, natural language processing and graph learning.
+bio: My research interests include efficient and secure deep learning, computer vision, natural language processing and graph learning.
 
 # Interests to show in About widget
 interests:
@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Microelectronics
+    - course: Master in School of Software and Microelectronics
       institution: Peking University
       year: 2023-Present
-    - course: BSc in Software Engineering
+    - course: BSc in School of Software Engineering
       institution: University of Electronic Science and Technology of China
       year: 2019-2023
 
@@ -65,7 +65,8 @@ highlight_name: true
 I am currently a first-year master student at Peking University (PKU) in [Institute for Artificial Intelligence](https://www.ai.pku.edu.cn/) and School of Software and Microelectronics. I am now advised by [Prof. Meng Li](https://www.ai.pku.edu.cn/info/1158/2309.htm) and [Prof. Runsheng Wang](http://www.ai.pku.edu.cn/info/1170/1230.htm), and devoted to efficient and secure deep learning system.
 
 My main interested research topics include (but not limited to):
-  - Model compression and acceleration
-  - Privacy-preserving deep learning
+  - Efficient AI: model compression and acceleration
+  - Secure AI: privacy-preserving deep learning
+  - Large language model (LLM), CNN and Vision Transformers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}} (it is not avaliable temporarily).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://xuanland.cn/wenxuan-zeng-cv.pdf" "newtab" >}}resumé{{< /staticref >}} (not avaliable temporarily).
